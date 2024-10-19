@@ -1,0 +1,7 @@
+print("Onii-chan")
+print("Nee-chan")
+print("Yamete Kudasai")
+print("UwU")
+print("Ara Ara")
+print("Baka")
+print("Oi Oi Oi")
